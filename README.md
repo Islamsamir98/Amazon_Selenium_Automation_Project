@@ -1,6 +1,6 @@
-AmazonSelenium Automation Project
+**AmazonSelenium Automation Project**
 
-Project Overview
+**Project Overview**
 
 This project automates an end-to-end shopping scenario on Amazon Egypt (amazon.eg) using Selenium WebDriver with Java.
 
@@ -20,7 +20,7 @@ Verifying products are added to the cart
 
 Selecting Payment Method and delivery address
 
-Technologies
+**Technologies**
 
   java 11+
 
