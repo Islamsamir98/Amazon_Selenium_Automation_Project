@@ -28,7 +28,7 @@ Selenium WebDriver
 
 Maven
 
-TestNG / JUnit (depending on your setup)
+TestNG
 
 Chrome Browser
 
